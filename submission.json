@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic, symbolic scene in a vast open landscape under a pale, hazy sky. A sequence of realistic suburban houses floats upward in a clear vertical progression, forming a visible timeline of housing prices increasing over time. The lowest houses are closer to the ground, while each successive house rises disproportionately higher than the previous one, creating an accelerating upward curve in spacing. The houses grow significantly larger and heavier in appearance as they rise, becoming massive and imposing at higher altitudes. Some houses appear structurally fragile—slightly translucent or hollow—suggesting instability and the illusion of ownership. The number of houses decreases at lower altitudes, emphasizing scarcity even at the affordable level. On the ground stands a single young adult reaching upward but unable to touch even the lowest house. A subtle horizontal boundary marks the maximum reachable height, with all houses above this threshold. Lighting is soft and diffused, with muted tones and an editorial, photorealistic style. No text, labels, charts, or symbols.",
+  "model": "Gemini 3 Pro",
+  "dataset_name": "US Housing Price Index (S&P Case-Shiller Home Price Index)",
+  "dataset_url": "https://fred.stlouisfed.org/series/CSUSHPISA",
+  "insight": "Housing prices have grown faster than incomes over time, pushing even the most affordable homes beyond the reach of average buyers."
+}
